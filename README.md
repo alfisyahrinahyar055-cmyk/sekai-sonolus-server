@@ -1,4 +1,4 @@
-# Sekai Sonolus Server
+# sekai next rush+ community
 
 A [Sonolus](https://sonolus.com) server for Project Sekai: Colorful Stage!.
 
